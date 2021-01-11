@@ -1,0 +1,9 @@
+-e .
+autopep8==1.5.4
+aws-cdk.aws-ec2==1.63.0
+aws-cdk.aws-ecs==1.63.0
+aws-cdk.aws-dynamodb==1.63.0
+aws-cdk.aws-s3-deployment==1.63.0
+boto3==1.14.62
+colorama==0.4.3
+httpie==2.3.0
